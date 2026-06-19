@@ -3,8 +3,8 @@
 ## Windows PowerShell
 
 ```powershell
-git clone <test>
-cd <test>
+git clone https://github.com/Ishakpln/ApexDP_13524022.git
+cd ApexDP_13524022
 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -41,8 +41,8 @@ Run tanpa activate:
 ## Windows Command Prompt
 
 ```cmd
-git clone <URL_REPOSITORY>
-cd <NAMA_FOLDER_REPOSITORY>
+git clone https://github.com/Ishakpln/ApexDP_13524022.git
+cd ApexDP_13524022
 
 python -m venv .venv
 .venv\Scripts\activate.bat
@@ -56,8 +56,8 @@ python src\driver.py
 ## macOS / Linux
 
 ```bash
-git clone <URL_REPOSITORY>
-cd <NAMA_FOLDER_REPOSITORY>
+git clone https://github.com/Ishakpln/ApexDP_13524022.git
+cd ApexDP_13524022
 
 python3 -m venv .venv
 source .venv/bin/activate
