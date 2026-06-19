@@ -1,0 +1,11 @@
+Slick
+0.47 0.75
+None
+0 0
+2.27
+Lamborghini Centenario
+1565
+1.2
+13
+10
+1.7
